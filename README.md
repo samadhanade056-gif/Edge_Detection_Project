@@ -1,4 +1,4 @@
-# Edge_Detection_Project
+ 
 # Edge-Detection-using-OpenCV
 Edge Detection and Contrast Enhancement using OpenCV
 Project Overview
