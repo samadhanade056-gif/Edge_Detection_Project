@@ -5,7 +5,7 @@ Project Overview
 
 This project demonstrates image contrast enhancement and edge detection techniques using Python and OpenCV. It improves low-contrast images and detects edges using advanced image processing methods.
 
-The project applies:
+ 
 
 Histogram Equalization
 
