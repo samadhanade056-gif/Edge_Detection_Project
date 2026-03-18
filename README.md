@@ -68,7 +68,7 @@ How to Run the Project
 Step 1: Place your image file
 Example: low_contrast.jpg
 
-Step 2: Run the Python file
+Step 2:-  Run the Python file
 
 python edge_detection.py
 
@@ -84,3 +84,6 @@ CLAHE Enhanced Image
 Sobel Edge Detection
 
 Canny Edge Detection
+
+
+
